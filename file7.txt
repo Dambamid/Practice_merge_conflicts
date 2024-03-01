@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "All that glitters is not gold."
+=======
+"The only way to do great work is to love what you do."
+>>>>>>> main
